@@ -87,6 +87,8 @@ const spanishMessages: TranslationMessages = {
         message: {
             about: 'Acerca de',
             are_you_sure: '¿Está seguro/a?',
+            auth_error:
+                "Ocurrió un error al validar el tóken de autenticación.",
             bulk_delete_content:
                 '¿Está seguro/a de eliminar este elemento (%{name})? |||| ¿Está seguro/a de eliminar estos %{smart_count} elementos (%{name})?',
             bulk_delete_title:
@@ -103,6 +105,7 @@ const spanishMessages: TranslationMessages = {
             details: 'Detalles',
             error:
                 "Ha ocurrido un error en el cliente y no se ha podido completar su petición.",
+
             invalid_form: "El formulario no es válido.",
             loading:
                 'La página se está cargando. Espere un momento, por favor.',
