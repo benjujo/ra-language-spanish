@@ -12,7 +12,7 @@ npm install --save @benjujo/ra-language-spanish
 
 ```jsx
 import { Admin } from 'react-admin';
-import spanishMessages from 'ra-language-spanish';
+import spanishMessages from '@benjujo/ra-language-spanish';
 import polyglotI18nProvider from 'ra-i18n-polyglot';
 const messages = {
     'es': spanishMessages,

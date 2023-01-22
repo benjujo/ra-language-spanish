@@ -1,6 +1,6 @@
 {
     "name": "@benjujo/ra-language-spanish",
-    "version": "4.6.2",
+    "version": "4.6.3",
     "description": "Spanish messages for react-admin.",
     "repository": {
         "type": "git",
@@ -21,7 +21,7 @@
         "watch": "tsc --outDir dist/esm --module es2015 --watch"
     },
     "dependencies": {
-        "ra-core": "^4.6.2"
+        "ra-core": "^4.6.3"
     },
     "devDependencies": {
         "rimraf": "^3.0.2",
